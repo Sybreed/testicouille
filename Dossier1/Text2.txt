@@ -1,1 +1,3 @@
-Je pige toujours rien à Docker
+Je pige toujours que dalle à Docker
+
+J'ai trouvé 2-3 truc sympas qui l'expliquent, mais bon ttoujours rien de concret...
